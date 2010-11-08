@@ -5,12 +5,12 @@ call pathogen#runtime_append_all_bundles()
 set nocompatible
 syntax on
 set tags=./tags
-
+colorscheme vividchalk
 
 """""""""""""""""""""""""""""""""""""
 " Bundles
 """"""""""""""""""""""""""""""""""""
-" Bundle: git://github.com/tpope/vim-vividchalk.git
+" Bundle: http://github.com/tpope/vim-vividchalk.git
 
 """"""""""""""""""""""""""""""""""""""
 " display

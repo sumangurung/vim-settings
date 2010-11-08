@@ -1,3 +1,6 @@
 [submodule "vim-update-bundles"]
 	path = vim-update-bundles
 	url = https://github.com/bronson/vim-update-bundles.git
+[submodule "bundle/vividchalk"]
+	path = bundle/vividchalk
+	url = http://github.com/tpope/vim-vividchalk.git
