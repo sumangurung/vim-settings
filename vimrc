@@ -1,3 +1,5 @@
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
 " VIM extensions are not compatible with VI and have to be set as vim starts as compatible when it finds .vimrc
 set nocompatible
 syntax on
