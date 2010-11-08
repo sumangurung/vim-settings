@@ -12,6 +12,7 @@ colorscheme vividchalk
 """"""""""""""""""""""""""""""""""""
 " Bundle: http://github.com/tpope/vim-vividchalk.git
 " Bundle: http://github.com/tpope/vim-rails.git
+" Bundle: http://github.com/tpope/vim-fugitive.git
 """"""""""""""""""""""""""""""""""""""
 " display
 """""""""""""""""""""""""""""""""""""

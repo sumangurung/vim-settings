@@ -1,9 +1,10 @@
 *bundles.txt*                    Bundles                      Version 0.1
 
 These are the bundles installed on your system, along with their
-versions and release dates.  Downloaded on 2010-11-08 12:21:54 -0500.
+versions and release dates.  Downloaded on 2010-11-08 12:23:34 -0500.
 
 A version number of 'n/a' means upstream hasn't tagged any releases.
   - |vividchalk|                   v2.0                   2010-02-19
   - |rails|                        v4.3-3-gdcae61e        2010-11-07
+  - |fugitive|                     v1.1-32-ge954d36       2010-11-05
 
