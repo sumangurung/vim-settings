@@ -101,6 +101,7 @@ endif
 """"""""""""""""""""""""""""""""""""""""""""
 "highlight all search matches
 set hlsearch
+set incsearch
 
 " * Load external config
 runtime! statusbar_config.vim
